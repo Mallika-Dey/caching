@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: cache
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: sql
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
