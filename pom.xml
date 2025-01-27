@@ -35,9 +35,8 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>com.atilika.kuromoji</groupId>
-			<artifactId>kuromoji-ipadic</artifactId>
-			<version>0.9.0</version>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-redis</artifactId>
 		</dependency>
 
 		<dependency>
